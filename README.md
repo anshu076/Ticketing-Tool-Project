@@ -19,31 +19,36 @@ The users can leverage this application to perform below taks:
 
 1) Basic Setup:
    
-   a) Designed the project architecture using controller layer, service layer, DAO and then database layer.
-   b) Added all the required dependencies like starter, jpa and devtools using maven.
+   > Designed the project architecture using controller layer, service layer, DAO and then database layer.
+   
+   > Added all the required dependencies like starter, jpa and devtools using maven.
 
-2) Controller Layer:
+3) Controller Layer:
    
    a) Developed several endpoints in the controller layer, separately for two entities - ticket and project.
+   
    b) Users requests will reach a REST endpoint and will be processed further to a dedicated service layer.
 
-3) Service Layer:
+4) Service Layer:
 
    a) Service layer will have driving logics to validate and process the inputs collected from user end.
+   
    b) Once the processing is done at the service layer, the outcomes will be pushed forward to Dao layer.
 
-4) Controller Advice Layer:
+5) Controller Advice Layer:
 
    a) While the inputs are getting validated in service layer, multiple exceptions may get thrown due to server issues or client inputs.
+   
    b) The exceptions will be resolved using several exception handlers and the handlers will also help in sending a customized message to client stating the reason 
       of failure.
 
-5) Dao Layer :
+6) Dao Layer :
    
    a) Dao will have repository related logics to save, update and delete the entries.
+   
    b) The outcomes will be finally stored in the backend database.
 
-6) Output : Created jsp pages to display the API outcomes to the client.
+8) Output : Created jsp pages to display the API outcomes to the client.
 
 
 #Simple DEMO of the requests and the responses from application :
