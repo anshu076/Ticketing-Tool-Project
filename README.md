@@ -14,6 +14,9 @@ The users can leverage this application to perform below taks:
 
 **Project Architecture**
 
+![PROJECT](https://github.com/anshu076/Ticketing-Tool-Project/assets/73514877/cd24195f-d0f7-484b-92d4-322924ec9123)
+
+
 
                             CONTROLLER ADVICE       
                                   |
