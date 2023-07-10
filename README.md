@@ -54,10 +54,13 @@ CLIENT ----> CONTROLLER ----> SERVICE ----> DAO ----> DATABASE
 6) Output : Created jsp pages to display the API outcomes to the client.
 
 
-Simple DEMO of the requests and the responses from application :
+#Simple DEMO of the requests and the responses from application :
 
 INPUT :
 [Click here to see the user inputs](https://drive.google.com/file/d/1Dfm-qtmk4GbthCtAvMwWuqn3UkO13Yc9/view?usp=drivesdk) 
+
+OUTPUT :
+[Click here to see the API response](https://drive.google.com/file/d/1DeRPfJYkQp_Z8yjXToy2EBDBIzIVw0sm/view?usp=drivesdk) 
 
 
 
