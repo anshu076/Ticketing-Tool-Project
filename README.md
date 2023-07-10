@@ -15,10 +15,10 @@ The users can leverage this application to perform below taks:
 **Project Architecture**
 
 
-                          CONTROLLER ADVICE       
-                                 |
-                                 |
-                                 |
+                            CONTROLLER ADVICE       
+                                  |
+                                  |
+                                  |
 CLIENT ----> CONTROLLER ----> SERVICE ----> DAO ----> DATABASE
 
                                 
