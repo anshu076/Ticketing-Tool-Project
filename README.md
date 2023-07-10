@@ -23,32 +23,32 @@ The users can leverage this application to perform below taks:
    
    > Added all the required dependencies like starter, jpa and devtools using maven.
 
-3) Controller Layer:
+2) Controller Layer:
    
-   a) Developed several endpoints in the controller layer, separately for two entities - ticket and project.
+   > Developed several endpoints in the controller layer, separately for two entities - ticket and project.
    
-   b) Users requests will reach a REST endpoint and will be processed further to a dedicated service layer.
+   > Users requests will reach a REST endpoint and will be processed further to a dedicated service layer.
 
-4) Service Layer:
+3) Service Layer:
 
-   a) Service layer will have driving logics to validate and process the inputs collected from user end.
+   > Service layer will have driving logics to validate and process the inputs collected from user end.
    
-   b) Once the processing is done at the service layer, the outcomes will be pushed forward to Dao layer.
+   > Once the processing is done at the service layer, the outcomes will be pushed forward to Dao layer.
 
-5) Controller Advice Layer:
+4) Controller Advice Layer:
 
-   a) While the inputs are getting validated in service layer, multiple exceptions may get thrown due to server issues or client inputs.
+   > While the inputs are getting validated in service layer, multiple exceptions may get thrown due to server issues or client inputs.
    
-   b) The exceptions will be resolved using several exception handlers and the handlers will also help in sending a customized message to client stating the reason 
+   > The exceptions will be resolved using several exception handlers and the handlers will also help in sending a customized message to client stating the reason 
       of failure.
 
-6) Dao Layer :
+5) Dao Layer :
    
-   a) Dao will have repository related logics to save, update and delete the entries.
+   > Dao will have repository related logics to save, update and delete the entries.
    
-   b) The outcomes will be finally stored in the backend database.
+   > The outcomes will be finally stored in the backend database.
 
-8) Output : Created jsp pages to display the API outcomes to the client.
+6) Output : > Created jsp pages to display the API outcomes to the client.
 
 
 #Simple DEMO of the requests and the responses from application :
