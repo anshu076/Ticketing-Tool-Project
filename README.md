@@ -1,5 +1,5 @@
 # Ticketing-Tool-Project
-**Built a ticketing tool application using springboot framework**
+**## Built a ticketing tool application using springboot framework**
 
 The users can leverage this application to perform below taks:
 
