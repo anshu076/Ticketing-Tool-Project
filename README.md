@@ -44,17 +44,19 @@ CLIENT ----> CONTROLLER ----> SERVICE ----> DAO ----> DATABASE
    b) The exceptions will be resolved using several exception handlers and the handlers will also help in sending a customized message to client stating the reason 
       of failure.
 
-6) Dao Layer :
+5) Dao Layer :
    
    a) Dao will have repository related logics to save, update and delete the entries.
    b) The outcomes will be finally stored in the backend database.
 
-7) Output : Created jsp pages to display the API outcomes to the client.
+6) Output : Created jsp pages to display the API outcomes to the client.
 
 
 DEMO of the project :
 
 Input :
+
+
 
 
 
