@@ -1,5 +1,5 @@
 # Ticketing-Tool-Project
-**## Built a ticketing tool application using springboot framework**
+**# Built a ticketing tool application using springboot framework to register tickets and manage ticket queue**
 
 The users can leverage this application to perform below taks:
 
@@ -54,10 +54,10 @@ CLIENT ----> CONTROLLER ----> SERVICE ----> DAO ----> DATABASE
 6) Output : Created jsp pages to display the API outcomes to the client.
 
 
-DEMO of the project :
+Simple DEMO of the requests and the responses from application :
 
-Input :
-[Adding user input](https://drive.google.com/file/d/1Dfm-qtmk4GbthCtAvMwWuqn3UkO13Yc9/view?usp=drivesdk) 
+INPUT :
+[Click here to see the user inputs](https://drive.google.com/file/d/1Dfm-qtmk4GbthCtAvMwWuqn3UkO13Yc9/view?usp=drivesdk) 
 
 
 
