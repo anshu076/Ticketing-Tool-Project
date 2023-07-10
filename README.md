@@ -16,14 +16,6 @@ The users can leverage this application to perform below taks:
 
 ![PROJECT](https://github.com/anshu076/Ticketing-Tool-Project/assets/73514877/cd24195f-d0f7-484b-92d4-322924ec9123)
 
-
-
-                            CONTROLLER ADVICE       
-                                  |
-                                  |
-                                  |
-CLIENT ----> CONTROLLER ----> SERVICE ----> DAO ----> DATABASE
-
                                 
 
 **Work process**
