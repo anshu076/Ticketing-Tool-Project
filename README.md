@@ -3,7 +3,7 @@
 
 The users can leverage this application to perform below taks:
 
-1) Users can create a tiket by providing details like ticket id, tiket name and ticket date and they can further map this ticket to a specific project category.
+1) Users can create a ticket by providing details like ticket id, tiket name and ticket date and they can further map this ticket to a specific project category.
 2) Multipe project categories can be created to distribute the tickets and they can be accessed using project id.
 3) Users can track and update their ticket queue by performing multiple operations like adding a ticket, updating ticket details or deleting a ticket from queue.
    
